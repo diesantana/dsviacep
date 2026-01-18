@@ -137,6 +137,11 @@ section#list-section, section#form-section {
   font-size: 12px;
 }
 
+.error-message{
+  margin-top: 5px;
+  color: #faa;
+}
+
 /* MEDIA QUERIES */
 @media screen and (min-width: 576px) {
 .btn-group {
