@@ -142,6 +142,10 @@ section#list-section, section#form-section {
   color: #faa;
 }
 
+.input-group input:disabled{
+  background-color: #e0e0e0;
+}
+
 /* MEDIA QUERIES */
 @media screen and (min-width: 576px) {
 .btn-group {
